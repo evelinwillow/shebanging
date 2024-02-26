@@ -1,4 +1,4 @@
-thingie to auto-boilerplate bash scripts
+thingie to auto-boilerplate shell scripts
 
 yes its useless
 
