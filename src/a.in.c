@@ -9,9 +9,6 @@
 #define BTR_SHEL "# You're not using a posix-compliant shell. Fix that."
 #define EXP_SHEL "/sh"
 
-void *foo( void * );
-_Bool shelll( void * );
-
 void *foo ( bar )
 	void *bar;
 {	
